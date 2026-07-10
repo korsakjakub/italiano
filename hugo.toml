@@ -1,6 +1,6 @@
-baseURL = 'https://korsakjakub.github.io/italiano/'
+baseURL = 'https://italiano.korsak.xyz/'
 languageCode = 'pl-pl'
-title = 'Włoski z korepetycji'
+title = 'Włoski z Karoliną'
 
 [taxonomies]
   tag = 'tags'

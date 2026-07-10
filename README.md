@@ -1,6 +1,6 @@
-# Włoski z korepetycji
+# Włoski z Karoliną
 
-Notatki, transkrypcje i listy słówek z korepetycji z języka włoskiego, publikowane jako blog na GitHub Pages (Hugo + PaperMod).
+Notatki, transkrypcje i listy słówek z korepetycji z języka włoskiego, publikowane jako blog na GitHub Pages (Hugo, własny minimalny motyw).
 
 ## Struktura
 
