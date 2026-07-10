@@ -1,0 +1,15 @@
+baseURL = 'https://korsakjakub.github.io/italiano/'
+languageCode = 'pl-pl'
+title = 'Włoski z korepetycji'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = 'auto'
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowWordCount = false
+
+[taxonomies]
+  tag = 'tags'
+  category = 'categories'

@@ -1,0 +1,9 @@
+/public/
+/resources/
+.hugo_build.lock
+.claude/
+
+# oryginalne nagrania - za duże na repo, trzymane tylko lokalnie
+raw/*.mov
+raw/*.mp4
+raw/*.m4a
