@@ -1,0 +1,10 @@
+{{ define "main" }}
+<article>
+  <h1>{{ .Title }}</h1>
+  <p class="date">{{ .Date.Format "2006-01-02" }}</p>
+  {{ if .Params.tags }}
+  <p class="tags">{{ range .Params.tags }}<span class="tag">#{{ . }}</span> {{ end }}</p>
+  {{ end }}
+  {{ .Content }}
+</article>
+{{ end }}
