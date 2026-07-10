@@ -7,3 +7,6 @@
 raw/*.mov
 raw/*.mp4
 raw/*.m4a
+
+# surowe transkrypcje - tylko lokalnie, źródło dla postów
+transcripts/
