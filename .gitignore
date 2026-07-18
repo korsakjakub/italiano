@@ -1,7 +1,7 @@
 /public/
 /resources/
 .hugo_build.lock
-.claude/
+.claude/settings.local.json
 
 # oryginalne nagrania - za duże na repo, trzymane tylko lokalnie
 raw/*.mov
